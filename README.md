@@ -55,4 +55,3 @@ CONTRIBUTORS (Update your names below)
 ============
 - Bhavyanshu
 - Salil
-- Ojas
